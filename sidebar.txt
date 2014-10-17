@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kzt:home|Door43 (kzt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kzt|d43-kzt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kzt/archive/master.zip|d43-kzt.zip]]
+
+**Recent Changes**
+{{changes>ns = kzt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kzt|Ethnologue data]]
+
